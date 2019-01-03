@@ -2,7 +2,7 @@
 
 ### Day 1: Jan 2nd, Wed
 
-**Today's Progress***: Started the CSS3 in 30 Days Challenge
+**Today's Progress**: Started the CSS3 in 30 Days Challenge
 
 **Thoughts**: Styled a button to look like one you might find on Facebook - wasn't bad at all. Learned about CSS pseudo-element 
 property.

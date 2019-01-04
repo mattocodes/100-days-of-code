@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 2: Jan 3rd, Thu
+
+**Today's Progress**: I continued to work on Fancy Buttons.
+
+**Thoughts**: Styled a Circle button and a Gradient button
+
+**Link(s) to work**: [Fancy Button](https://github.com/mattocodes/fancy-buttons)
+
+
 ### Day 1: Jan 2nd, Wed
 
 **Today's Progress**: Started the CSS3 in 30 Days Challenge

@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 3: Jan 4th, Fri
+
+**Today's Progress**: I worked some more on Fancy Buttons. 
+
+**Thoughts**: Today, I styled animated buttons & toogle switch UI buttons
+
+**Link(s) to work**: [Fancy Button](https://github.com/mattocodes/fancy-buttons)
+
+
 ## Day 2: Jan 3rd, Thu
 
 **Today's Progress**: I continued to work on Fancy Buttons.

@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 4: Jan 5th, Sat
+
+**Today's Progress**: I worked on Sexy Typography
+
+**Thoughts**: Without using Photoshop, I created cool text effects using CSS3
+
+**Link(s) to work**: [Sexy Typography](https://github.com/mattocodes/sexy-typography)
+
+
 ## Day 3: Jan 4th, Fri
 
 **Today's Progress**: I worked some more on Fancy Buttons. 

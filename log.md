@@ -4,7 +4,7 @@
 
 **Today's Progress**: Today, I worked on Clipping Images and Sexy Registration Form. 
 
-**Thoughts**: With CSS3, I turned images into different shapes. Also, turned a plain web form into a visually attractive form--which was really neat!
+**Thoughts**: With CSS3, I turned images into different shapes. Also, turned a plain web form into a visually attractive form - which was really neat!
 
 **Link(s) to work**:
  *  [Clipping Images](https://github.com/mattocodes/clipping-images)

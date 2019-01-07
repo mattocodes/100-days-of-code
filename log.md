@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 5: Jan 6th, Sun
+
+**Today's Progress**: Today, I worked on Clipping Images and Sexy Registration Form. 
+
+**Thoughts**: With CSS3, I turned images into different shapes. Also, turned a plain web form into a visually attractive form--which was really neat!
+
+**Link(s) to work**:
+ *  [Clipping Images](https://github.com/mattocodes/clipping-images)
+ 
+ *  [Sexy Registration Form](https://github.com/mattocodes/sexy-registration-form)
+
+
 ## Day 4: Jan 5th, Sat
 
 **Today's Progress**: I worked on Sexy Typography

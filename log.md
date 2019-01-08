@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 6: Jan 7th, Mon
+
+**Today's Progress**: Today, I worked on a webpage broken image link 
+
+**Thoughts**: This project was short & really fun. I turned a plain webpage broken image link into a visually attractive broken image link. 
+
+**Link(s) to work**: [Useful Broken Images](https://github.com/mattocodes/useful-broken-images)
+
+
 ## Day 5: Jan 6th, Sun
 
 **Today's Progress**: Today, I worked on Clipping Images and Sexy Registration Form. 

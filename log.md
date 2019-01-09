@@ -4,7 +4,7 @@
 
 **Today's Progress**: I styled a webpage to be print ready.
 
-**Thoughts**: This project wasn't too dificult and the skill gained will prove useful in later projects.
+**Thoughts**: This project wasn't too difficult and the skill gained will prove useful in later projects.
 
 **Link(s) to work**: [Print Styles](https://github.com/mattocodes/print-styles)
 

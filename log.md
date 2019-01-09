@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+## Day 7: Jan 8th, Tue
+
+**Today's Progress**: I styled a webpage to be print ready.
+
+**Thoughts**: This project wasn't too dificult and the skill gained will prove useful in later projects.
+
+**Link(s) to work**: [Print Styles](https://github.com/mattocodes/print-styles)
+
+
 ## Day 6: Jan 7th, Mon
 
 **Today's Progress**: Today, I worked on a webpage broken image link 

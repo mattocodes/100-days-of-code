@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+## Day 8: Jan 9th, Wed
+
+**Today's Progress**: Today, I used CSS3 filter property to manipulate images
+
+**Thoughts**: I created some really cool effects on images like making the images grayscale, blur/focused, inverted, or sepia.
+
+**Link(s) to work**: [Image Manipulation](https://github.com/mattocodes/image-manipulation)
+
+
 ## Day 7: Jan 8th, Tue
 
 **Today's Progress**: I styled a webpage to be print ready.

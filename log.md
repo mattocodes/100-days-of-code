@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 9: Jan 10th, Thu
+
+**Today's Progress**: Worked on drawing out an 8-bit Mario using CSS
+
+**Thoughts**: So far, I drawed out Mario's hat. I hope to complete the rest tomorrow.
+
+**Link(s) to work**: [8-Bit Mario](https://github.com/mattocodes/eight-bit-mario)
+
+
 ## Day 8: Jan 9th, Wed
 
 **Today's Progress**: Today, I used CSS3 filter property to manipulate images

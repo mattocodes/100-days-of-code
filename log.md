@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 10: Jan 11th, Fri
+
+**Today's Progres**: Completed drawing out 8-bit Mario using CSS
+
+**Thoughts**: This project was fun but a bit tedious.
+
+**Link(s) to work**: [8-Bit Mario](https://github.com/mattocodes/eight-bit-mario)
+
+
 ## Day 9: Jan 10th, Thu
 
 **Today's Progress**: Worked on drawing out an 8-bit Mario using CSS

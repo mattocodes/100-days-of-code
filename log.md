@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 11: Jan 12th, Sat
+
+**Today's Progress**: Today, I practiced modern layouts techniques
+
+**Thoughts**: This was quite interesting.
+
+**Link(s) to work**: [Modern Layouts](https://github.com/mattocodes/modern-layouts)
+
+
 ## Day 10: Jan 11th, Fri
 
 **Today's Progres**: Completed drawing out 8-bit Mario using CSS

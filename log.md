@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 13: Jan 14th, Mon
+
+**Today's Progress**: I completed styling the pricing table
+
+**Thoughts**: I'm glad to done with this project. 
+
+**Link(s)**: [Pricing Table](https://github.com/mattocodes/pricing-table)
+
+
 ## Day 12: Jan 13th, Sun
 
 **Today's Progress**: I worked on styling a plain pricing table into a visually attractive one.

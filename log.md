@@ -7,7 +7,7 @@
 
 **Thoughts**: I'm glad to done with this project. 
 
-**Link(s)**: [Pricing Table](https://github.com/mattocodes/pricing-table)
+**Link(s) to work**: [Pricing Table](https://github.com/mattocodes/pricing-table)
 
 
 ## Day 12: Jan 13th, Sun

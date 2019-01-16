@@ -3,9 +3,9 @@
 
 ## Day 14: Jan 15th, Tue
 
-**Today's Progress**: I worked on Internet Explorer(IE) style reset
+**Today's Progress**: I worked on Internet Explorer (IE) style reset
 
-**Thoughts**: Today was all about styling for IE compartibility
+**Thoughts**: Today was all about styling for IE compatibility
 
 **Link(s) to work**: [IE Hacks](https://github.com/mattocodes/ie-hacks)
 

@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 14: Jan 15th, Tue
+
+**Today's Progress**: I worked on Internet Explorer(IE) style reset
+
+**Thoughts**: Today was all about styling for IE compartibility
+
+**Link(s) to work**: [IE Hacks](https://github.com/mattocodes/ie-hacks)
+
+
 ## Day 13: Jan 14th, Mon
 
 **Today's Progress**: I completed styling the pricing table
@@ -21,7 +30,7 @@
 
 ## Day 11: Jan 12th, Sat
 
-**Today's Progress**: Today, I practiced modern layouts techniques
+**Today's Progress**: Today, I practiced modern layout techniques
 
 **Thoughts**: This was quite interesting.
 

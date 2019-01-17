@@ -3,9 +3,9 @@
 
 ## Day 15: Jan 16th, Wed
 
-**Today's Progress**: Today was all about exploring CSS Varibles/Custom Properties - what they are and how they are used.
+**Today's Progress**: Today was all about exploring CSS Variables/Custom Properties - what they are and how they are used.
 
-**Thoughts**: This was quite interesting. CSS Varibles allows one to store CSS values as variables. 
+**Thoughts**: This was quite interesting. CSS Variables allows one to store CSS values as variables. 
 
 **Link(s) to work**: [CSS Variables](https://github.com/mattocodes/css-variables)
 

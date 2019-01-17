@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 15: Jan 16th, Wed
+
+**Today's Progress**: Today was all about exploring CSS Varibles/Custom Properties - what they are and how they are used.
+
+**Thoughts**: This was quite interesting. CSS Varibles allows one to store CSS values as variables. 
+
+**Link(s) to work**: [CSS Variables](https://github.com/mattocodes/css-variables)
+
+
 ## Day 14: Jan 15th, Tue
 
 **Today's Progress**: I worked on Internet Explorer (IE) style reset

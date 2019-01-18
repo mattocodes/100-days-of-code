@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 16: Jan 17th, Thu
+
+**Today's Progress**: Today's project involved making a sticky footer
+
+**Thoughts**: It wasn't as difficult as I thought it would be
+
+**Link(s) to work**: [Sticky Footer](https://github.com/mattocodes/sticky-footer)
+
+
 ## Day 15: Jan 16th, Wed
 
 **Today's Progress**: Today was all about exploring CSS Variables/Custom Properties - what they are and how they are used.

@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 17: Jan 18th, Fri
+
+**Today's Progress**: Today's project was all about making a sticky header
+
+**Thoughts**: This will prove quite useful in the future
+
+**Link(s) to work**: [Sticky Header](https://github.com/mattocodes/sticky-header)
+
+
 ## Day 16: Jan 17th, Thu
 
 **Today's Progress**: Today's project involved making a sticky footer

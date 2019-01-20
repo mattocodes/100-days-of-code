@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 18: Jan 19th, Sat
+
+**Today's Progress**: I continued with the "Stickies" - today was all about making a sticky sidebar. 
+
+**Thought**: This will also prove useful in the future - maybe for side navigation. 
+
+**Link(s) to work**: [Sticky Sidebar](https://github.com/mattocodes/sticky-sidebar)
+
+
 ## Day 17: Jan 18th, Fri
 
 **Today's Progress**: Today's project was all about making a sticky header

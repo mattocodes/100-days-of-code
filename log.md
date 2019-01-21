@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-# Day 19: Jan 20th, Sun
+## Day 19: Jan 20th, Sun
 
 **Today's Progress**: I worked on creating a modal window with only CSS3.
 

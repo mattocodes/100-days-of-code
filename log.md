@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+# Day 19: Jan 20th, Sun
+
+**Today's Progress**: I worked on creating a modal window with only CSS3.
+
+**Thoughts**: This was awesome! The fact that I created a modal window without JavaScript.
+
+**Link(s) to work**: [Modal Window](https://github.com/mattocodes/modal-window)
+
+
 ## Day 18: Jan 19th, Sat
 
 **Today's Progress**: I continued with the "Stickies" - today was all about making a sticky sidebar. 

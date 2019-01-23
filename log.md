@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 21: Jan 22nd, Tue
+
+**Today's Progress**: I continued working on making Pacman & Blinky with only CSS.
+
+**Thoughts**: The project is coming along nicely.
+
+**Link(s) to work**: [Pacman](https://github.com/mattocodes/pacman)
+
+
 ## Day 20: Jan 21st, Mon
 
 **Today's Progress**: I worked on making Pacman & Blinky using only CSS. 

@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 22: Jan 23rd, Wed
+
+**Today's Progress**: I worked some more on Pacman & Blinky the ghost. 
+
+**Thoughts**: I should be done with this project tomorrow. 
+
+**Link(s) to work**: [Pacman](https://github.com/mattocodes/pacman)
+
+
 ## Day 21: Jan 22nd, Tue
 
 **Today's Progress**: I continued working on making Pacman & Blinky with only CSS.

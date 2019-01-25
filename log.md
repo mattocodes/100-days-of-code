@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+## Day 23: Jan 24th, Thu
+
+**Today's Progress**: I completed Pacman & Blink project. And, I started 
+working on making useful tooltips in CSS. 
+
+**Thoughts**: I didn't get much done today. I hope tomorrow will be promising. 
+
+**Link(s) to work**: [Useful Tooltips](https://github.com/mattocodes/tooltips)
+
+
 ## Day 22: Jan 23rd, Wed
 
 **Today's Progress**: I worked some more on Pacman & Blinky the ghost. 

@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+## Day 24: Jan 25th, Fri
+
+**Today's Progress**: I continued working on tooltips that pops-up when you 
+hover over an element.
+
+**Thoughts**: Working on this has been okay so far. 
+
+**Link(s) to work**: [Useful Tooltips](https://github.com/mattocodes/tooltips)
+
+
 ## Day 23: Jan 24th, Thu
 
 **Today's Progress**: I completed Pacman & Blink project. And, I started 

@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 25: Jan 26th, Sat
+
+**Today's Progres**: I completed the tooltips project. 
+
+**Thoughts**: I'm amazed at the number of things that can be done using only CSS.
+
+**Link(s) to work**: [Useful Tooltips](https://github.com/mattocodes/tooltips)
+
+
 ## Day 24: Jan 25th, Fri
 
 **Today's Progress**: I continued working on tooltips that pops-up when you 

@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 26: Jan 27th, Sun
+
+**Today's Progress**: I worked on making animated progress bars in CSS. 
+
+**Thoughts**: This project was fun to make. 
+
+**Link(s) to work**: [Animated Progress Bars](https://github.com/mattocodes/animated-progress-bars)
+
+
 ## Day 25: Jan 26th, Sat
 
 **Today's Progres**: I completed the tooltips project. 

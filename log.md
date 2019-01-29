@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 27: Jan 28th, Mon
+
+**Today's Progress**: I worked on making an animated pyramid
+
+**Thoughts**: I'm beginning to get a hang of the clip-path CSS property.
+
+**Link(s) to work**: [Animated Pyramid](https://github.com/mattocodes/animated-pyramid)
+
+
 ## Day 26: Jan 27th, Sun
 
 **Today's Progress**: I worked on making animated progress bars in CSS. 

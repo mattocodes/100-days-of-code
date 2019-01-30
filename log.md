@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 28: Jan 29th, Tue
+
+**Today's Progress**: I began working on making animated spinners with CSS.
+
+**Thoughts**: I'm liking it so far. 
+
+**Link(s) to work**: [Spinners](https://github.com/mattocodes/spinners)
+
+
 ## Day 27: Jan 28th, Mon
 
 **Today's Progress**: I worked on making an animated pyramid

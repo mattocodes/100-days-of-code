@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 30: Jan 31st, Thu
+
+**Today's Progress**: I started working on basic layouts using flexbox. 
+
+**Thoughts**: Flexbox seems much more easier to use for layouts than floats.
+
+**Link(s) to work**: [Flexbox Layouts](https://github.com/mattocodes/flexbox-layouts)
+
+
 ## Day 29: Jan 30th, Wed
 
 **Today's Progress**: I completed making the animated spinners.

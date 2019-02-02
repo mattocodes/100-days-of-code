@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+## Day 31: Feb 1st, Fri
+
+**Today's Progress**: I completed the basic flexbox layouts project.
+
+**Thoughts**: Flexbox really does make laying out your web pages a lot
+easier. However, I still have a lot more to learn about flexbox.
+
+**Link(s) to work**: [Flexbox Layouts](https://github.com/mattocodes/flexbox-layouts)
+
+
 ## Day 30: Jan 31st, Thu
 
 **Today's Progress**: I started working on basic layouts using flexbox. 

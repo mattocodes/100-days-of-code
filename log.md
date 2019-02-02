@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+## Day 32: Feb 2nd, Sat
+
+**Today's Progress**: I worked on making a CSS3 accordion.
+
+**Thoughts**: I completed this. However, the accordion doesn't transition 
+smoothly. It has a "jumpiness" to it. I'll have to revisit this. 
+
+**Link(s) to work**: [CSS3 Accordion](https://github.com/mattocodes/css3-accordion)
+
+
 ## Day 31: Feb 1st, Fri
 
 **Today's Progress**: I completed the basic flexbox layouts project.

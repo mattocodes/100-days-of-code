@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+## Day 33: Feb 3rd, Sun
+
+**Today's Progress**: I worked on knowing how CSS @support rule works, and I 
+also worked on creating sliding content panels with CSS3. 
+
+**Thoughts**: The sliding content panels was fun to make. 
+
+**Link(s) to work**:
+ *  [Sliding Panels](https://github.com/mattocodes/sliding-panels)
+
+ *  [Supports Rule](https://github.com/mattocodes/supports-rule)
+
+
 ## Day 32: Feb 2nd, Sat
 
 **Today's Progress**: I worked on making a CSS3 accordion.

@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+## Day 34: Feb 4th, Mon
+
+**Today's Progress**: I worked on creating a 3D layer effect with CSS3.
+
+**Thoughts**: I didn't quite understanding much of what was going on in 
+this project. I'll have to revisit this project.
+
+**Link(s) to work**: [3D Layers](https://github.com/mattocodes/3d-layers)
+
+
 ## Day 33: Feb 3rd, Sun
 
 **Today's Progress**: I worked on knowing how CSS @support rule works, and I 

@@ -5,7 +5,7 @@
 
 **Today's Progress**: Today, I worked on creating a simple dropdown menu in CSS.
 
-**Thoughts**: To my surprise, this was relative easy to make. 
+**Thoughts**: To my surprise, this was relatively easy to make. 
 
 **Link(s) to work**: [Dropdown Menu](https://github.com/mattocodes/dropdown-menu)
 

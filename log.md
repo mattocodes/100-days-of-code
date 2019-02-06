@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 35: Feb 5th, Tue
+
+**Today's Progress**: Today, I worked on creating a simple dropdown menu in CSS.
+
+**Thoughts**: To my surprise, this was relative easy to make. 
+
+**Link(s) to work**: [Dropdown Menu](https://github.com/mattocodes/dropdown-menu)
+
+
 ## Day 34: Feb 4th, Mon
 
 **Today's Progress**: I worked on creating a 3D layer effect with CSS3.

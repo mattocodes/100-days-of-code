@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+## Day 36: Feb 6th, Wed
+
+**Today's Progress**: Today, I learned about techniques to optimize my CSS.
+
+**Thought**: I still have more to learn. For instance, a CSS pre-processor 
+like SASS.
+
+**Link(s) to work**: [Optimizing CSS](https://github.com/mattocodes/optimizing-css)
+
+
 ## Day 35: Feb 5th, Tue
 
 **Today's Progress**: Today, I worked on creating a simple dropdown menu in CSS.

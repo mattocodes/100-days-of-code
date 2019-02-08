@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+## Day 37: Feb 7th, Thu
+
+**Today's Progress**: Today, I worked on creating a blurred depth of field
+effect with CSS3.
+
+**Thoughts**: Blurring out images via CSS was quite interesting. 
+
+**Link(s) to work**: [Blurry Effect](https://github.com/mattocodes/blurry-effect)
+
+
 ## Day 36: Feb 6th, Wed
 
 **Today's Progress**: Today, I learned about techniques to optimize my CSS.

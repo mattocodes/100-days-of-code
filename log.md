@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+## Day 38: Feb 8th, Fri
+
+**Today's Progress**: Today, I created a realistic coffee cup with CSS3.
+
+**Thoughts**: This was fun to make. 
+
+**Link(s) to work**: [Coffee Cup](https://github.com/mattocodes/coffee-cup)
+
+
 ## Day 37: Feb 7th, Thu
 
 **Today's Progress**: Today, I worked on creating a blurred depth of field

@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 39: Feb 9th, Sat
+
+**Today's Progress**: I didn't do much today; I went over a few CSS lessons
+
+
 ## Day 38: Feb 8th, Fri
 
 **Today's Progress**: Today, I created a realistic coffee cup with CSS3.

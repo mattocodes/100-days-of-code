@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 40: Feb 10th, Sun
+
+**Today's Progress**: I went over pure CSS images tutorial
+
+
 ## Day 39: Feb 9th, Sat
 
 **Today's Progress**: I didn't do much today; I went over a few CSS lessons

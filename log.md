@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 42: Feb 12th, Tue
+
+**Today's Progress**: Today, I did some more CSS tutorials. Covered CSS position properties; static, relative, absolute, and fixed position. 
+
+
 ## Day 41: Feb 11th, Mon
 
 **Today's Progress**: I continued with the CSS tutorial

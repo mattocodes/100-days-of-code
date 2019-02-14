@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+## Day 43: Feb 13th, Wed
+
+**Today's Progress**: I started making a CSS image headshot of a koala bear.
+
+**Thoughts**: It has been quite interesting so far. 
+
+
 ## Day 42: Feb 12th, Tue
 
 **Today's Progress**: Today, I did some more CSS tutorials. Covered CSS position properties; static, relative, absolute, and fixed position. 

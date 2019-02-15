@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 44: Feb 14th, Thu
+
+**Today's Progress**: Today, I continued with making a CSS image headshot of a koala bear.
+
+
 ## Day 43: Feb 13th, Wed
 
 **Today's Progress**: I started making a CSS image headshot of a koala bear.

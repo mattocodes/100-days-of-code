@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 47: Feb 17th, Sun
+
+**Today's Progress**: I went over basic HTML 5 tutorial.
+
+
 ## Day 46: Feb 16th, Sat
 
 **Today's Progress**: I continued with making a CSS image headshot of a koala bear.

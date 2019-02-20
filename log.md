@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 49: Feb 19th, Tue
+
+**Today's Progress**: I went over pure CSS image tutorial.
+
+
 ## Day 48: Feb 18th, Mon
 
 **Today's Progress**: I completed making a CSS image headshot of a Koala bear.

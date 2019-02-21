@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+## Day 50: Feb 20th, Wed
+
+**Today's Progress**: I continued with the pure CSS image tutorial - covering how Z-Index is 
+used for layering.
+
+
 ## Day 49: Feb 19th, Tue
 
 **Today's Progress**: I went over pure CSS image tutorial.

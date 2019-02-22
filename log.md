@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+## Day 51: Feb 21st, Thu
+
+**Today's Progress**: I did some more CSS image tutorial. I went over breaking down complex 
+images into simple shapes.
+
+
 ## Day 50: Feb 20th, Wed
 
 **Today's Progress**: I continued with the pure CSS image tutorial - covering how Z-Index is 

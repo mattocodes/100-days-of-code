@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+## Day 52: Feb 22nd, Fri
+
+**Today's Progress**: I continued with CSS image tutorial; I went over CSS animations and how to 
+incorporate them into pure CSS images.
+
+
 ## Day 51: Feb 21st, Thu
 
 **Today's Progress**: I did some more CSS image tutorial. I went over breaking down complex 

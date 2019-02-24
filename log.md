@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+## Day 53: Feb 23rd, Sat
+
+**Today's Progress**: I continued with CSS image tutorial. This time around I went over the process
+of making a Nintendo Switch console image. 
+
+
 ## Day 52: Feb 22nd, Fri
 
 **Today's Progress**: I continued with CSS image tutorial; I went over CSS animations and how to 

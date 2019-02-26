@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 55: Feb 25th, Mon
+
+**Today's Progress**: I continued with HTML forms tutorial.
+
+
 ## Day 54: Feb 24th, Sun
 
 **Today's Progress**: I went over semantic HTML5 and HTML forms tutorial.

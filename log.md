@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 56: Feb 26th, Tue
+
+**Today's Progress**: I worked some more on HTML forms tutorial. 
+
+
 ## Day 55: Feb 25th, Mon
 
 **Today's Progress**: I continued with HTML forms tutorial.

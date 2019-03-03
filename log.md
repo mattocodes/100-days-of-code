@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 60: Mar 2nd, Sat
+
+**Today's Progress**: I completed the HTML forms tutorial. 
+
+
 ## Day 59: Mar 1st, Fri
 
 **Today's Progress**: I worked some more on HTML forms tutorial.

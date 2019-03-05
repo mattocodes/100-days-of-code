@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 61: Mar 4th, Mon
+
+**Today's Progress**: I started HTML table tutorial. 
+
+
 ## Day 60: Mar 2nd, Sat
 
 **Today's Progress**: I completed the HTML forms tutorial. 

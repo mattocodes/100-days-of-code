@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 63: Mar 6th, Wed
+
+**Today's Progress**: I began SVG tutorial.
+
+
 ## Day 62: Mar 5th, Tue
 
 **Today's Progress**: I completed the HTML table tutorial.

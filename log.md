@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 64: Mar 7th, Thu
+
+**Today's Progress**: I completed the SVG tutorial.
+
+
 ## Day 63: Mar 6th, Wed
 
 **Today's Progress**: I began SVG tutorial.

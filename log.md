@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 65: Mar 8th, Fri
+
+**Today's Progress**: I started on HTML video and audio tutorial.
+
+
 ## Day 64: Mar 7th, Thu
 
 **Today's Progress**: I completed the SVG tutorial.

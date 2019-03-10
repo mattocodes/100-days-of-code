@@ -1,6 +1,11 @@
 # 100 Days Of Code - Log
 
 
+## Day 66: Mar 9th, Sat
+
+**Today's Progress**: I completed the HTML video and audio tutorial. 
+
+
 ## Day 65: Mar 8th, Fri
 
 **Today's Progress**: I started on HTML video and audio tutorial.
